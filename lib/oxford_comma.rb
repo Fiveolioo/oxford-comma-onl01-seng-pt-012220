@@ -1,3 +1,4 @@
 def oxford_comma(array)
-  array.join("and")
+  print array
+  oxford_fruits = []
 end
